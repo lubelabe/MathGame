@@ -2720,6 +2720,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Skateboarding
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d441f5c0ecb08794f9e55f94e24dffe4, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects:
